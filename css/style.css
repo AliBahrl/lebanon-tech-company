@@ -568,7 +568,7 @@ header .container .call_us {
     overflow: hidden;
 }
 .courses .all-courses .course:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
 .courses .all-courses .course img {
     width: 100%;
@@ -931,7 +931,7 @@ hr {
     z-index: 1;
 }
 .plan:hover {
-    scale: 1.05;
+    scale: 1.02;
 }
 .plan:nth-child(3)::before {
     content: "Popular";
@@ -1044,7 +1044,7 @@ hr {
     /* padding-bottom: 20px; */
     /* text-align: center; */
     /* border-radius: 10px; */
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .testimonials .container .testimonial:hover {
     transform: translateY(-5px);
