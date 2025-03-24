@@ -1044,7 +1044,7 @@ hr {
     /* padding-bottom: 20px; */
     /* text-align: center; */
     /* border-radius: 10px; */
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 .testimonials .container .testimonial:hover {
     transform: translateY(-5px);
